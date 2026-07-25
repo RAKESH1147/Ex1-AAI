@@ -1,7 +1,7 @@
-<H3> Name </H3>
-<H3>Register No.</H3>
+<H3> Name Rakesh K S </H3>
+<H3>Register No. 212224040264</H3>
 <H3> Experiment 1</H3>
-<H3>DATE:</H3>
+<H3>DATE: 25/07/2026</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 ## Aim :
     To create a bayesian Network for the given dataset in Python
@@ -24,7 +24,17 @@ Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 ## Program:
 ''' Type your Code here '''
 ## Output:
-''' Show the output in the form screenshorts '''
+<img width="788" height="557" alt="image" src="https://github.com/user-attachments/assets/be233b26-159f-495c-b739-2f4cb4607895" />
+<img width="803" height="562" alt="image" src="https://github.com/user-attachments/assets/16345d07-3693-42b4-9484-3b0ff2269020" />
+<img width="756" height="301" alt="image" src="https://github.com/user-attachments/assets/9f02537a-afed-44be-9675-a0f010739f75" />
+<img width="907" height="667" alt="image" src="https://github.com/user-attachments/assets/8a1d7432-8ac9-4a85-ba09-3619aca729a5" />
+<img width="1752" height="145" alt="image" src="https://github.com/user-attachments/assets/11ff661e-6f0c-4410-928f-e8207c2d2723" />
+
+
+
+
+
+
 ## Result:
    Thus a Bayesian Network is generated using Python
 
