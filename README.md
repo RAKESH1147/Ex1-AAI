@@ -29,6 +29,8 @@ Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 <img width="756" height="301" alt="image" src="https://github.com/user-attachments/assets/9f02537a-afed-44be-9675-a0f010739f75" />
 <img width="907" height="667" alt="image" src="https://github.com/user-attachments/assets/8a1d7432-8ac9-4a85-ba09-3619aca729a5" />
 <img width="1752" height="145" alt="image" src="https://github.com/user-attachments/assets/11ff661e-6f0c-4410-928f-e8207c2d2723" />
+<img width="622" height="193" alt="image" src="https://github.com/user-attachments/assets/d5880eff-861e-4945-b921-b7fcc65b2fcb" />
+
 
 
 
